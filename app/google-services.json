@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274933291323",
+    "project_id": "localchat-d10ed",
+    "storage_bucket": "localchat-d10ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274933291323:android:99976a2c72c427206e7f1e",
+        "android_client_info": {
+          "package_name": "com.example.localchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274933291323-h85qeqkfivrnk67s9rumsg7ur8g60co3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzC7nk5WtvSnb0HlY2T8xZcGFU9Ulmzag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274933291323-h85qeqkfivrnk67s9rumsg7ur8g60co3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

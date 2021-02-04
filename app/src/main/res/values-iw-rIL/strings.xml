@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="userName_hint">שם משתמש</string>
+    <string name="email_hint">אימייל</string>
+    <string name="password_hint">סיסמה</string>
+    <string name="have_account">כבר יש לי חשבון</string>
+    <string name="sign_up_button">הירשם</string>
+    <string name="toSignUp">להירשם</string>
+    <string name="sign_in_button">להתחבר</string>
+    <string name="logout">להתנתק</string>
+    <string name="settings">הגדרות</string>
+    <string name="about">על אודות</string>
+    <string name="username">שם משתמש</string>
+    <string name="lastMessage">הודעה אחרונה</string>
+    <string name="typeAMessage">הקלד הודעה</string>
+    <string name="user">שם משתמש:</string>
+    <string name="enterYourName">הזן את שמך</string>
+    <string name="save">להציל</string>
+    <string name="aboutApp">אודות יישום</string>
+    <string name="version">גרסה 1.0</string>
+    <string name="ayanot">עיינות, ישראל</string>
+    <string name="educationApp">יישום זה נועד למטרות חינוכיות.</string>
+    <string name="sources">מקורות מידע המשמשים ליצירת יישום זה:</string>
+</resources>

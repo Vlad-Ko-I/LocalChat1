@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="userName_hint">Имя пользователя</string>
+    <string name="email_hint">Эл. адрес</string>
+    <string name="password_hint">Пароль</string>
+    <string name="have_account">У меня уже есть аккаунт</string>
+    <string name="sign_up_button">Регист.</string>
+    <string name="toSignUp">Зарегистрироваться</string>
+    <string name="sign_in_button">ВОЙТИ В СИСТЕМУ</string>
+    <string name="logout">Выйти</string>
+    <string name="settings">Настройки</string>
+    <string name="about">Информация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="lastMessage">Последнее сообщение</string>
+    <string name="typeAMessage">Напишите сообщение</string>
+    <string name="user">Имя пользователя:</string>
+    <string name="enterYourName">Введите ваше имя</string>
+    <string name="save">Сохранить</string>
+    <string name="aboutApp">О приложении</string>
+    <string name="version">Версия 1.0</string>
+    <string name="ayanot">Аянот, Израиль</string>
+    <string name="educationApp">Это приложение предназначено для образовательных целей.</string>
+    <string name="sources">Источники информации, использованные для создания этого приложения:</string>
+</resources>
